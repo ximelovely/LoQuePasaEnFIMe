@@ -31,4 +31,4 @@ Página web que simula un periódico estudiantil con:
 ## 🚀 **Instalación** (Para versión local)  
 1. Clona el repositorio:  
 ```bash
-git clone https://github.com/tuusuario/lo-que-pasa-en-fime.git
+git clone https://github.com/tuusuario/LoQuePasaEnFIME.git
